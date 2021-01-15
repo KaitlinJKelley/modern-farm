@@ -6,6 +6,15 @@ import { createPlan } from "./plan.js"
 
 // console.log(plan)
 
-// import { createCorn } from "./seeds/corn.js"
+import { createCorn } from "./seeds/corn.js"
 
 // console.log(createCorn())
+
+import { usePlants } from "./field.js"
+import { addPlant } from "./field.js"
+
+// addPlant(createCorn())
+// const checkCorn = usePlants()
+// console.log(checkCorn)
+
+// console.log(Array.isArray(checkCorn))
