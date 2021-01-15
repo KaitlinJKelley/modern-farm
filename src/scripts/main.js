@@ -6,3 +6,6 @@ import { createPlan } from "./plan.js"
 
 // console.log(plan)
 
+// import { createCorn } from "./seeds/corn.js"
+
+// console.log(createCorn())
