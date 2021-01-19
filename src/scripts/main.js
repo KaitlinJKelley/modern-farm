@@ -19,8 +19,11 @@ import { addPlant } from "./field.js"
 
 // console.log(Array.isArray(checkCorn))
 
-import { plantSeeds } from "./tractor.js"
+// import { plantSeeds } from "./tractor.js"
 
-const plan = [[Asparagus], [Asparagus]]
+// const yearPlan = [
+//     ["Asparagus", "Asparagus"], 
+//     ["Asparagus", "Asparagus"]
+// ]
 
-plantSeeds(plan)
+// console.log(plantSeeds(yearPlan))
